@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>978c0f99-02f9-403b-ad56-02f56767aa94</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Jenkins_Test_Case1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

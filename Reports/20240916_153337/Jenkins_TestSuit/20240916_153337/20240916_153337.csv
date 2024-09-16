@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Jenkins_TestSuit,Chrome 128.0.0.0,,,16-09-2024 15:33:44,16-09-2024 15:34:19,34.317s,FAILED
+,,,,,,,
+Test Cases/Jenkins_Test_Case1,Chrome 128.0.0.0,,,16-09-2024 15:34:14,16-09-2024 15:34:16,2.166s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,16-09-2024 15:34:14,16-09-2024 15:34:14,0.115s,FAILED
+Video,Chrome 128.0.0.0,,,16-09-2024 15:34:16,16-09-2024 15:34:16,0.000s,PASSED
+,,,,,,,
+Test Cases/Jenkins_Test_Case2,Chrome 128.0.0.0,,,16-09-2024 15:34:16,16-09-2024 15:34:19,2.026s,PASSED
+return null,Chrome 128.0.0.0,,,16-09-2024 15:34:16,16-09-2024 15:34:16,0.000s,PASSED

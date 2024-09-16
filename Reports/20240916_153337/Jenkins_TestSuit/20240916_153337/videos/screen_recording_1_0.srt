@@ -1,0 +1,20 @@
+1
+00:00:00,107 --> 00:00:12,198
+1. openBrowser("")
+
+2
+00:00:12,202 --> 00:00:18,036
+5. navigateToUrl("https://www.kbprasacbank.com.kh/")
+
+3
+00:00:18,037 --> 00:00:23,052
+9. delay(5)
+
+4
+00:00:23,052 --> 00:00:23,403
+13. verifyTextPresent("merl ERROR  !!!", false, CONTINUE_ON_FAILURE)
+
+5
+00:00:23,404 --> 00:00:23,495
+17. closeBrowser()
+
