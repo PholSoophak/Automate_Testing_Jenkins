@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_org.openqa.selenium.bidi.log</name>
+   <tag></tag>
+   <elementGuidId>5fc88a32-29cf-44a0-bd61-178e2ecd7da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='all-packages-table']/div[2]/div[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^org\.openqa\.selenium\.bidi\.log$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf426299-2881-47f8-b53e-0609c1fe8095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-first odd-row-color all-packages-table all-packages-table-tab1</value>
+      <webElementGuid>a36a6e3d-ac49-48fe-8770-fcfe744f5c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>org.openqa.selenium.bidi.log</value>
+      <webElementGuid>df1d9ed2-e669-44da-a689-695b3b408cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;all-packages-table&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-first odd-row-color all-packages-table all-packages-table-tab1&quot;]</value>
+      <webElementGuid>ecff80a6-e34d-468f-a2e6-712b2013a85b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='all-packages-table']/div[2]/div[9]</value>
+      <webElementGuid>ab91e7fe-5525-4147-8266-aedca83f771f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.bidi.browsingcontext'])[1]/following::div[2]</value>
+      <webElementGuid>decfb05a-d5d7-4977-9486-8d6aa31fd931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.bidi'])[1]/following::div[4]</value>
+      <webElementGuid>29eed67f-7d9c-4ffc-9451-48bd79c10442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.bidi.module'])[1]/preceding::div[2]</value>
+      <webElementGuid>7d58896f-e137-4707-b40d-d6f64e3e512f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]</value>
+      <webElementGuid>d20a6b8f-bd7c-40b2-9ee2-afd0d4767485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'org.openqa.selenium.bidi.log' or . = 'org.openqa.selenium.bidi.log')]</value>
+      <webElementGuid>0a9ce803-d1a8-4301-b613-2d3d6e779e7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

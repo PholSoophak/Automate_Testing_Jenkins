@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_Call_TestCase,,,,18-09-2024 09:56:44,18-09-2024 09:56:46,2.309s,PASSED
+,,,,,,,
+Test Cases/4_Listener_Demo_TestCase,,,,18-09-2024 09:56:44,18-09-2024 09:56:46,2.213s,PASSED
+Start listener action : beforeTest,,,,18-09-2024 09:56:44,18-09-2024 09:56:44,0.002s,PASSED
+Start setup action : setupTestCase,,,,18-09-2024 09:56:44,18-09-2024 09:56:44,0.046s,PASSED
+"println(""
+ I am inside TestCase 
+"")",,,,18-09-2024 09:56:44,18-09-2024 09:56:44,0.001s,PASSED
+Start tear down : tearDownTestCase,,,,18-09-2024 09:56:44,18-09-2024 09:56:44,0.004s,PASSED
+Start listener action : afterTest,,,,18-09-2024 09:56:44,18-09-2024 09:56:44,0.002s,PASSED

@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Listener_TestSuit,,,,18-09-2024 09:27:00,18-09-2024 09:27:03,2.326s,PASSED
+,,,,,,,
+Test Cases/4_Listener_Demo_TestCase,,,,18-09-2024 09:27:00,18-09-2024 09:27:03,2.232s,PASSED
+Start listener action : beforeTest,,,,18-09-2024 09:27:00,18-09-2024 09:27:00,0.004s,PASSED
+"println(""
+ I am inside TestCase 
+"")",,,,18-09-2024 09:27:00,18-09-2024 09:27:00,0.003s,PASSED
+Start listener action : afterTest,,,,18-09-2024 09:27:00,18-09-2024 09:27:00,0.013s,PASSED

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite_Call_TestCase" time="2.286" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite_Call_TestCase" tests="1" failures="0" errors="0" time="2.286" skipped="0" timestamp="18-09-2024T09:48:03" hostname="sokphak.phol - 21639-SOKPHAK.PRASAC.COM.KH" id="Test Suites/TestSuite_Call_TestCase">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\Katalon-Atomate-Testing\\3_Autmate_Testing_with_Jenkins\\Reports\\20240918_094800\\TestSuite_Call_TestCase\\20240918_094801"/>
+         <property name="logFiles" value="D:\\Katalon-Atomate-Testing\\3_Autmate_Testing_with_Jenkins\\Reports\\20240918_094800\\TestSuite_Call_TestCase\\20240918_094801\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="sokphak.phol - 21639-SOKPHAK.PRASAC.COM.KH"/>
+         <property name="hostAddress" value="10.10.20.90"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+      </properties>
+      <testcase name="Test Cases/4_Listener_Demo_TestCase" time="2.194" classname="Test Cases/4_Listener_Demo_TestCase" status="PASSED">
+         <system-out><![CDATA[18-09-2024T09:48:03 - [TEST_CASE][PASSED] - Test Cases/4_Listener_Demo_TestCase: Test Cases/4_Listener_Demo_TestCase
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - Start listener action : beforeTest: null
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - println("
+ Inside beforeTest step 
+"): null
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - Start setup action : setupTestCase: Method 'setupTestCase' complete successfully
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - println("SetupTestCase testing message"): null
+
+18-09-2024T09:48:03 - [MESSAGE][PASSED] - Method 'setupTestCase' complete successfully
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - println("
+ I am inside TestCase 
+"): null
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - Start tear down : tearDownTestCase: Method 'tearDownTestCase' complete successfully
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - println("tearDownTestCase testing message"): null
+
+18-09-2024T09:48:03 - [MESSAGE][PASSED] - Method 'tearDownTestCase' complete successfully
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - Start listener action : afterTest: null
+
+18-09-2024T09:48:03 - [TEST_STEP][PASSED] - println("
+ Inside afterTest step 
+"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-09-2024T09:48:03 - [TEST_SUITE][PASSED] - TestSuite_Call_TestCase: Test Cases/4_Listener_Demo_TestCase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

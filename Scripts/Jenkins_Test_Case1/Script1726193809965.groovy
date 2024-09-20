@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.kbprasacbank.com.kh/')
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.verifyTextPresent('merl ERROR  !!!', false, FailureHandling.CONTINUE_ON_FAILURE)
 
